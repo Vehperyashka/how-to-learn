@@ -20,9 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8fa608-3eba-4b9a-9ec1-f80f5420f502" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/__link/feynman__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/feynman/__link/feynman__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/feynman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/feynman/feynman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/kaufman/kaufman.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__book-container/khan__book-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__book-container/khan__book-container.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__book-pic/khan__book-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/__buy-link/khan__buy-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/khan/khan.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/khan/khan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/resources/__logo/resources__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/table/_theme/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/table/_theme/table__heading_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/table/_theme/table__text_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/table/_theme/table_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/table/_theme/table_theme_dark.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/content/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/content/video/__iframe/video__iframe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column-links/footer__column-links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social-icon.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__social-icon/footer__social-icon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__link/header__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__link/header__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/rotation.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/rotation/rotation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/normalize.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +80,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blocks/content/table/__cell/_theme" />
+      <recent name="$PROJECT_DIR$/blocks/content/table/__heading/_theme" />
+      <recent name="$PROJECT_DIR$/blocks/content/table/__text/_theme" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/blocks/content/two-columns/__brief" />
     </key>
@@ -72,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601123221521</updated>
-      <workItem from="1601123223467" duration="29860000" />
+      <workItem from="1601123223467" duration="35549000" />
     </task>
     <servers />
   </component>

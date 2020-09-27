@@ -4,8 +4,5 @@
   width: 568px;
   z-index: 0;
   position: absolute;
-  top: 64px;
-  right: 0;
   display: block;
-  animation: rotation 20s ease-in-out infinite;
 }

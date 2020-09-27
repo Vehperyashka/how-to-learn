@@ -1,6 +1,10 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/rotation/_place/rotation_place_header.css);
+@import url(../blocks/rotation/_place/rotation_place_kaufman.css);
+
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
@@ -37,9 +41,9 @@
 @import url(../blocks/content/table/__heading/table__heading.css);
 @import url(../blocks/content/table/__text/table__text.css);
 @import url(../blocks/content/table/_theme/table_theme_dark.css);
-@import url(../blocks/content/table/_theme/table__cell_theme_dark.css);
-@import url(../blocks/content/table/_theme/table__heading_theme_dark.css);
-@import url(../blocks/content/table/_theme/table__text_theme_dark.css);
+@import url(../blocks/content/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/content/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../blocks/content/table/__text/_theme/table__text_theme_dark.css);
 
 @import url(../blocks/content/cards/cards.css);
 @import url(../blocks/content/cards/__item/cards__item.css);
