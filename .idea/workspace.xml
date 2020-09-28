@@ -21,57 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1f8fa608-3eba-4b9a-9ec1-f80f5420f502" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/cards/__description/cards__description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__description/cards__description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/cards/__image/cards__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__image/cards__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/cards/__item/cards__item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__item/cards__item.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/cards/__title/cards__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/__title/cards__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/cards/cards.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cards/cards.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/description/description.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/description/description.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/digits/digits.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/digits/digits.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/__link/feynman__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/__link/feynman__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/__subtitle/feynman__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/__subtitle/feynman__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/__title/feynman__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/__title/feynman__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/feynman/feynman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/feynman/feynman.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/kaufman/__triangle/kaufman__triangle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/__triangle/kaufman__triangle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/kaufman/kaufman.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/kaufman/kaufman.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__author/khan__author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__author/khan__author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__book-container/khan__book-container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-container/khan__book-container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__book-pic/khan__book-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__book-pic/khan__book-pic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__buy-link/khan__buy-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__buy-link/khan__buy-link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__container/khan__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__container/khan__container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__quote-author-subline/khan__quote-author-subline.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author-subline/khan__quote-author-subline.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__quote-author/khan__quote-author.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote-author/khan__quote-author.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__quote/khan__quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__quote/khan__quote.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/__title/khan__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/__title/khan__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/khan/khan.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/khan/khan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/oakley/oakley.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/oakley/oakley.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/resources/__link/resources__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__link/resources__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/resources/__logo-zone/resources__logo-zone.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo-zone/resources__logo-zone.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/resources/__logo/resources__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/__logo/resources__logo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/resources/resources.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/resources/resources.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/section-subtitle/_theme/section-subtitle_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/_theme/section-subtitle_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/section-subtitle/section-subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-subtitle/section-subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/section-title/_theme/section-title_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/_theme/section-title_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/section-title/section-title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/section-title/section-title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__cell/_theme/table__cell_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/_theme/table__cell_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__cell/table__cell.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__cell/table__cell.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__heading/_theme/table__heading_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__heading/_theme/table__heading_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__heading/table__heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__heading/table__heading.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__text/_theme/table__text_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__text/_theme/table__text_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/__text/table__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/__text/table__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/_theme/table_theme_dark.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/_theme/table_theme_dark.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/table/table.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/table/table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/techniques/techniques.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/techniques/techniques.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/two-columns/__brief/two-columns__brief.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__brief/two-columns__brief.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/two-columns/__main-text/two-columns__main-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__main-text/two-columns__main-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/two-columns/__paragraph/two-columns__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__paragraph/two-columns__paragraph.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/two-columns/__span-accent/two-columns__span-accent.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/__span-accent/two-columns__span-accent.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/two-columns/two-columns.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/two-columns/two-columns.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/video/__iframe/video__iframe.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframe/video__iframe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/video/__iframes/video__iframes.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/__iframes/video__iframes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/content/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__square-pic/header__square-pic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__columns/_content/footer__column_content_copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__column/_content/footer__column_content_copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/_place/rotation_place_header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/rotation/_place/rotation_place_kaufman.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,11 +62,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/blocks/footer/__column" />
       <recent name="$PROJECT_DIR$/blocks" />
       <recent name="$PROJECT_DIR$/blocks/content/table/__cell/_theme" />
       <recent name="$PROJECT_DIR$/blocks/content/table/__heading/_theme" />
       <recent name="$PROJECT_DIR$/blocks/content/table/__text/_theme" />
-      <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -125,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601123221521</updated>
-      <workItem from="1601123223467" duration="36771000" />
+      <workItem from="1601123223467" duration="37601000" />
     </task>
     <servers />
   </component>
